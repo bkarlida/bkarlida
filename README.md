@@ -1,8 +1,8 @@
 <div style="float: left; margin-right: 20px;">
     <img src="https://github.com/CarRentex/CarRentex-FrontEnd/blob/main/public/carlogo.png" alt="Tobeto Finish Project" width="150" height="150">
+    <h3>  Java&React FullStack Project</h3>
 </div>
 
-![Tobeto Finish Project ](https://github.com/CarRentex/CarRentex-FrontEnd/blob/main/public/carlogo.png)
 
 
 
