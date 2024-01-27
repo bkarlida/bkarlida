@@ -1,5 +1,5 @@
 
-![Tobeto Finish Project ](https://github.com/CarRentex/CarRentex-FrontEnd/blob/main/public/carlogo.png){width=50% height=50%}
+![Tobeto Finish Project ](https://github.com/CarRentex/CarRentex-FrontEnd/blob/main/public/carlogo.png)
 
 
 
