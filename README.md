@@ -1,6 +1,6 @@
 <div style="float: left; margin-right: 20px;">
     <img src="https://github.com/CarRentex/CarRentex-FrontEnd/blob/main/public/carlogo.png" alt="Tobeto Finish Project" width="250" height="150">
-    <h1 style="margin-right: 20px;">  Java&React FullStack Project  -->>  URL: https://github.com/CarRentex </h1>
+    <h1 style="margin-right: 20px;"> <br/> Java&React FullStack Project  -->>  URL: https://github.com/CarRentex </h1>
 </div>
 
 
