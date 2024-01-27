@@ -1,5 +1,5 @@
 <div style="float: left; margin-right: 20px;">
-    <img src="https://github.com/CarRentex/CarRentex-FrontEnd/blob/main/public/carlogo.png" alt="Tobeto Finish Project" width="250" height="150">
+    <img src="https://github.com/CarRentex/CarRentex-FrontEnd/blob/main/public/carlogo.png" alt="Tobeto Finish Project" width="350" height="120">
     <h1 style="margin-right: 20px;"> Java&React FullStack Project</h1>
     <h3>  -->>  URL: https://github.com/CarRentex</h3>
 </div>
