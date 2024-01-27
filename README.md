@@ -1,5 +1,5 @@
 
-![GitHub Octocat](https://github.com/CarRentex/CarRentex-FrontEnd/blob/main/public/carlogo.png){width=100 height=100}
+(https://github.com/CarRentex/CarRentex-FrontEnd/blob/main/public/carlogo.png)
 
 
 
